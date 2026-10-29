@@ -1,4 +1,4 @@
-def ft_seed_inventory(seed :str, quantity:int, unit:str):
+def ft_seed_inventory(seed :str, quantity:int, unit:str) -> None:
     
     capitalized_seed = seed.capitalize()
 

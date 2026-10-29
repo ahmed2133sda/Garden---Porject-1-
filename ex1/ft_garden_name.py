@@ -1,4 +1,4 @@
-def ft_garden_name():
+def ft_garden_name() -> None:
     Garden_name = input("Enter garden name:")
     print("Enter garden name:",Garden_name)
     print("Garden:", Garden_name)

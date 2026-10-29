@@ -1,4 +1,4 @@
-def ft_count_helper():
+def ft_count_helper() -> None:
 
     day = int(input("Days until harvest: "))
     for days in range(1, day + 1):

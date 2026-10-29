@@ -1,4 +1,4 @@
-def ft_plant_age():
+def ft_plant_age() -> None:
    
     age = int(input("Enter plant age in days: "))
     ready = "Plant is ready to harvest!"

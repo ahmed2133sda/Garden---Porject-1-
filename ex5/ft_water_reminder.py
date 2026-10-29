@@ -1,4 +1,4 @@
-def ft_water_reminder():
+def ft_water_reminder() -> None:
    
     water = int(input("Days since last watering: "))
     F = "Water the plants!"
